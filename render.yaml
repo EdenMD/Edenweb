@@ -2,7 +2,7 @@ services:
   - type: web
     name: eden-tech-bot
     runtime: python
-    repo: https://github.com/YOUR_GITHUB/eden-tech-blog-bot
+    repo: https://github.com/EdenMD/Edenweb
     region: oregon
     plan: free
     buildCommand: pip install -r requirements.txt
